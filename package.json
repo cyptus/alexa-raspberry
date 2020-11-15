@@ -4,7 +4,7 @@
   "description": "Emulates devices on Raspberry Pi and accepts commands",
   "main": "app.js",
   "dependencies": {
-    "wemore": "^0.3.0"
+    "wemore": "^0.6.2"
   },
   "devDependencies": {},
   "scripts": {
